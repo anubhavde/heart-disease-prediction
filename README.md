@@ -1,3 +1,3 @@
-# Heart Disease Prediction Web App
- Implemented the model using Logistic Regression and KNN , its observed that KNN performs better so we used KNN finally for our project.
- LINK -> https://heart-disease-prediction-dsn-2.herokuapp.com/
+# Heart Disease Prediction
+
+This project has been made in collaboration with [Shubham Sangwan](https://github.com/Inwearth), [Ashish Kumar](https://github.com/ashish7475), [Harshil](https://github.com/kumarharshil2001) and [Atharva Damle](https://github.com/Atharv002).
